@@ -1,11 +1,22 @@
-![11](https://github.com/user-attachments/assets/abac60aa-4c03-421b-90bf-1e27ff2dca8c)
-![10](https://github.com/user-attachments/assets/862ab645-e20a-4ff3-aebc-58742a0b8a54)
-![9](https://github.com/user-attachments/assets/f88fa66e-6e18-469c-bbf2-3ffd361cab2f)
-![8](https://github.com/user-attachments/assets/d4d4dda3-d585-4f9c-b071-88871ab88a80)
-![7](https://github.com/user-attachments/assets/3a919755-84bb-4d42-ab61-03d6b013ac66)
-![6](https://github.com/user-attachments/assets/89e8dc93-1f2e-4d68-94b4-9b94e6edc647)
-![5](https://github.com/user-attachments/assets/25337932-1c54-4d80-8596-25c09e941dec)
-![4](https://github.com/user-attachments/assets/8a85e40c-37bb-4215-9347-713018e6ec7b)
-![3](https://github.com/user-attachments/assets/9789b4e7-cbda-44f9-9300-650e2b940452)
-![2](https://github.com/user-attachments/assets/3a5f53d2-462a-402f-b686-84af6f90b013)
-![1](https://github.com/user-attachments/assets/749dd74c-ffd7-47d4-8c28-df2ec45b6602)
+1) Global View of all projects runing for a Microservice Architechture 
+![1](https://github.com/user-attachments/assets/37f6c8ee-b684-4bbe-8bd1-e3e2d726217b)
+2) Spring Eureka
+![2](https://github.com/user-attachments/assets/cdfbad8c-8253-4dcf-b468-63ce426c70ec)
+3) Spring Actuator
+![3](https://github.com/user-attachments/assets/64e91ec8-1928-436e-be6e-bae3655cbc36)
+4) My repository config.properties
+![4](https://github.com/user-attachments/assets/2717c915-7559-4a80-a4d5-da652595aa90)
+5) Health of Spring Actuator to check if the Microservice is UP or DOWN
+![5](https://github.com/user-attachments/assets/ebe765df-b19e-4f29-b580-bcef351a7430)
+6) Spring Actuator - Health
+![6](https://github.com/user-attachments/assets/de820c0c-94ac-40ec-a529-3da0ad6b16df)
+7) Commandes endpoint from POSTMAN
+![7](https://github.com/user-attachments/assets/a8f01ca4-72ce-4890-b4b1-c202d350744d)
+8) args (6) of commandes before changing configuration from Github repository
+![8](https://github.com/user-attachments/assets/b0a4e3f8-ee33-4142-915d-60af642100ca)
+9) Changing args from the Github repository
+![9](https://github.com/user-attachments/assets/4af4e080-c07d-4afa-bfd7-eee86c907a86)
+10) Refreshing Spring Actuator after changing args repository
+![10](https://github.com/user-attachments/assets/ef6e2a30-2d1a-4722-983d-2c4d8243bceb)
+11) args (9) of commandes before changing configuration from Github repository
+![11](https://github.com/user-attachments/assets/a9cd5f95-5819-4a44-bd67-6e18b750090d)
